@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Tran Van Hung</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Dai hoc</trinhdo>
+    <diachi>27 Hang Bai, Ha Noi</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Tran Van Hung</hoten>
+    <gioitinh>Nữ</gioitinh>
+    <trinhdo>Tran Van Hung</trinhdo>
+    <diachi>27 Hang Bai, Ha Noi</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Hoang Anh Quan</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Hoang Anh Quan</trinhdo>
+    <diachi>Ha Noi</diachi>
+  </nhanvien>
+</ds>
